@@ -1,0 +1,12 @@
+aiokafka==0.12.0
+async-timeout==5.0.1
+numpy==2.2.3
+packaging==24.2
+pandas==2.2.3
+python-dateutil==2.9.0.post0
+pytz==2025.1
+river==0.22.0
+scipy==1.15.2
+six==1.17.0
+typing_extensions==4.12.2
+tzdata==2025.1
